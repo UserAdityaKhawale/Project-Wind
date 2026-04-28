@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+output.css
+dist/
+docs/output.css
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
